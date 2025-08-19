@@ -1,8 +1,9 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Alcibiades Lopez
 
-<div align="Center">
-<img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
-</div>
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+also+studying+Computer+Engineering" /></a>
+</p>
+
 <br>
 <br>
 
@@ -37,5 +38,14 @@
 <img src="https://skillicons.dev/icons?i=windows,linux,mint,ubuntu"/>
 
 </div>
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+-----
 
 

@@ -1,11 +1,11 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Alcibiades Lopez
 
 <br>
+<br>
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Analyst;I'm+also+studying+Systems+Engineering" /></a>
 </p>
 
-<br>
 <br>
 
 ### 🤵 About Me:

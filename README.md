@@ -51,14 +51,3 @@
 
 
 </div>
-
-<br>
-<br>
-
-<div align="Center">
-
-|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
-| ----------|
-| <a href="mailto:alcibiadeslopez21@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence]"> </a> |
-
-</div>

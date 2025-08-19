@@ -1,15 +1,14 @@
 <div align="Center">
 <img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
-
+</div>
 <br>
 <br>
 
 ### 🤵 About Me:
-<div>
 - 📚 I'm currently studying systems engineering at the [Corporación Politecnico de la Costa Atlántica](https://pca.edu.co/wp/).
 - 🌱 I'm currently learning mobile app development
 -  We can connect on [Chess.com](https://www.chess.com/member/alcibiadesl21)♟ to play some games.
-</div>
+
 <br>
 <br>
 <br>

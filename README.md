@@ -13,9 +13,9 @@
 
 <div align="Center">
 
-| languages | Programming |
-| ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=js,java,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,github"/> |
+| Programming Languages | Tools | Database | 
+| ------------- | ------------- | ------------- |
+| <img src="https://skillicons.dev/icons?i=js,java,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,git"/> | <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" /> |
 
 </div>
 

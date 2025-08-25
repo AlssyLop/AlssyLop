@@ -7,15 +7,15 @@
 <br>
 <br>
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Analyst;I'm+also+studying+Systems+Engineering" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!" /></a>
 </p>
 
 <br>
 
-### 🤵 About Me:
-- 📚 I'm currently studying at the [Corporación Politecnico de la Costa Atlántica](https://pca.edu.co/wp/).
-- 🌱 I'm currently learning mobile app development
--  We can connect on [Chess.com](https://www.chess.com/member/alcibiadesl21)♟ to play some games.
+### About Me:
+- I'm currently studying at the [Corporación Politecnico de la Costa Atlántica](https://pca.edu.co/wp/).
+- I'm currently learning mobile app development
+- We can connect on [Chess.com](https://www.chess.com/member/alcibiadesl21)♟ to play some games.
 
 <br>
 <br>

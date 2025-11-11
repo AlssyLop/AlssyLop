@@ -12,10 +12,6 @@
 
 <br>
 
-### About Me:
-- I'm currently studying at the [Corporación Politecnico de la Costa Atlántica](https://pca.edu.co/wp/).
-- I'm currently learning mobile app development
-- We can connect on [Chess.com](https://www.chess.com/member/alcibiadesl21)♟ to play some games.
 
 <br>
 <br>

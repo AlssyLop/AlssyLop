@@ -54,7 +54,6 @@ Soy un desarrollador apasionado por la creación de sistemas robustos y eficient
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlssyLop&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="AlssyLop's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlssyLop&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Langs" />
 </div>
 

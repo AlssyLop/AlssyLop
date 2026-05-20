@@ -4,7 +4,7 @@
 
 # ⚡ Alcibiades Lopez
 
-### Full Stack Developer
+### Junior Developer
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -18,12 +18,7 @@
 
 ## 📝 Sobre Mí
 
-Soy un desarrollador apasionado por la creación de sistemas robustos y eficientes. Mi enfoque principal está en el desarrollo **Backend con Java**, pero disfruto creando experiencias de usuario fluidas con tecnologías modernas de **Frontend**.
-
-- Actualmente trabajando en: **Sistema de Gestión de Librerías (Java/Spring)**
-- Aprendiendo: **Arquitecturas de Microservicios y Cloud Computing**
-- Metas: **Contribuir a proyectos de código abierto de alto impacto**
-- Pregúntame sobre: **Java, JavaScript, SQL y por qué Linux es genial**
+Soy un desarrollador junior apasionado por la creación de sistemas robustos y eficientes. Mi enfoque principal está en el desarrollo **Backend con Java**, pero disfruto creando experiencias de usuario fluidas con tecnologías modernas de **Frontend**.
 
 ---
 

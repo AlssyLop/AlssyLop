@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# ⚡ Alcibiades Lopez
+# Alcibiades Lopez
 
 ### Junior Developer
 
@@ -16,13 +16,13 @@
 
 </div>
 
-## 📝 Sobre Mí
+## Sobre Mí
 
-Soy un desarrollador junior apasionado por la creación de sistemas robustos y eficientes. Mi enfoque principal está en el desarrollo **Backend con Java**, pero disfruto creando experiencias de usuario fluidas con tecnologías modernas de **Frontend**.
+Desarrollador FullStack. Diseño arquitecturas de software manteniendo los altos estándares de calidad. Mi objetivo es aportar valor resolviendo problemas tecnológicos, mientras sigo expandiendo mis habilidades técnicas y colaborando con equipos.
 
 ---
 
-## 💻 Stack Tecnológico
+## Stack Tecnológico
 
 ###  Lenguajes y Core
 <p align="left">
@@ -46,7 +46,7 @@ Soy un desarrollador junior apasionado por la creación de sistemas robustos y e
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlssyLop&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -56,7 +56,7 @@ Soy un desarrollador junior apasionado por la creación de sistemas robustos y e
 
 <div align="center">
 
-### 📫 Conectemos
+### Contacto
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alcibiadeslopez/)
 

@@ -1,59 +1,64 @@
-![Alcibiades Lopez Banner](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true)
+<div align="center" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" width="100%"/>
+</div>
 
-<div align="center">
 
-# Alcibiades Lopez
+# Ing. Alcibiades Lopez
 
 ---
 
-</div>
-
 <div align="center">
+
+<p align="center">
+  <img src="./Assets/banner.svg" alt="Banner de Perfil - Alcibiades Lopez" width="100%" />
+</p>
 
 ## `$ cat tech-stack.yaml`
 
 <table border="1" cellpadding="14" bgcolor="#17171c">
   <thead>
     <tr>
-      <th colspan="2" align="left"><code>macu-dev:~$ cat tech-stack.yaml</code></th>
+      <th colspan="2" align="left"><code>alssylop:~$ cat tech-stack.yaml</code></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="50%" valign="top"><code>├─ ☁ cloud_infrastructure:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=aws,azure" alt="AWS y Azure"><br>
-        <sub><code>AWS · Azure</code></sub>
+      <td width="50%" valign="top"><code>├─ ☕ backend_core:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,cs" alt="Java, Spring Boot, Python, FastAPI y C#"><br>
+        <sub><code>Java · Spring Boot · Python · FastAPI · C#</code></sub>
       </td>
-      <td width="50%" valign="top"><code>├─ ▣ databases_messaging:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb" alt="MySQL, PostgreSQL, MongoDB y DynamoDB"><br>
-        <sub><code>MySQL · PostgreSQL · MongoDB · DynamoDB</code></sub>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top"><code>├─ ⚙ containers_ci_cd:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=kubernetes,docker,githubactions,gitlab,bitbucket,bash" alt="Kubernetes, Docker, GitHub Actions, GitLab CI, Bitbucket y Bash"><br>
-        <sub><code>Kubernetes · Docker · GitHub Actions · GitLab CI · Bitbucket · Bash</code></sub>
-      </td>
-      <td valign="top"><code>├─ ◉ monitoring_observability:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=sentry,prometheus" alt="Sentry y Prometheus">
-        <img src="https://cdn.simpleicons.org/datadog/76d8d2?viewbox=auto" height="48" alt="Datadog"><br>
-        <sub><code>Sentry · Prometheus · Datadog</code></sub>
+      <td width="50%" valign="top"><code>├─ 🌐 frontend_web:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nodejs" alt="TypeScript, JavaScript, Next.js y Node.js"><br>
+        <sub><code>TypeScript · JavaScript · Next.js · Node.js</code></sub>
       </td>
     </tr>
     <tr>
-      <td valign="top"><code>├─ ✦ languages_frameworks:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,python,fastapi,java,spring" alt="Node.js, JavaScript, React, Next.js, TypeScript, Python, FastAPI, java y spring"><br>
-        <sub><code>Node.js · JavaScript · TypeScript · Python · FastAPI · Java · SpringBoot</code></sub>
+      <td valign="top"><code>├─ ▣ databases_storage:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=postgres,mssql,mongodb,mysql" alt="PostgreSQL, SQL Server, MongoDB y MySQL"><br>
+        <sub><code>PostgreSQL · SQL Server · MongoDB · MySQL</code></sub>
       </td>
-      <td valign="top"><code>╰─ ⌁ security_iac:</code><br><br>
-        <img src="https://cdn.simpleicons.org/trivy/f3d29b?viewbox=auto" height="48" alt="Trivy"><br>
-        <sub><code>Trivy</code></sub>
+      <td valign="top"><code>├─ ☁ cloud_devops:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions" alt="AWS, Docker, Git y GitHub Actions"><br>
+        <sub><code>AWS · Docker · Git · GitHub Actions</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ 🛠 developer_tools:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman" alt="VS Code, Visual Studio y Postman"><br>
+        <sub><code>VS Code · Visual Studio · Postman · DBeaver · SSMS</code></sub>
+      </td>
+      <td valign="top"><code>╰─ ⚡ workflow_ai:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=notion" alt="Notion">
+        <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD?viewbox=auto" height="48" alt="SonarQube">
+        <img src="https://cdn.simpleicons.org/googlegemini/8E75B2?viewbox=auto" height="48" alt="Gemini">
+        <img src="https://cdn.simpleicons.org/anthropic/D97757?viewbox=auto" height="48" alt="Claude"><br>
+        <sub><code>Gemini · Claude Code · OpenCode · SonarQube · Warp</code></sub>
       </td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
-      <td colspan="2"><code>status: ready&nbsp;&nbsp;·&nbsp;&nbsp;environment: production</code></td>
+      <td colspan="2"><code>status: open_to_work&nbsp;&nbsp;·&nbsp;&nbsp;location: colombia [utc-5]</code></td>
     </tr>
   </tfoot>
 </table>

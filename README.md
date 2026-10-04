@@ -21,13 +21,12 @@
   <tbody>
     <tr>
       <td width="50%" valign="top"><code>├─ ☁ cloud_infrastructure:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=aws,azure,ansible" alt="AWS, Azure y Ansible"><br>
-        <sub><code>AWS · Azure · Ansible</code></sub>
+        <img src="https://skillicons.dev/icons?i=aws,azure" alt="AWS y Azure"><br>
+        <sub><code>AWS · Azure</code></sub>
       </td>
       <td width="50%" valign="top"><code>├─ ▣ databases_messaging:</code><br><br>
-        <img src="assets/icon-amazon-rds.svg" height="48" alt="Amazon RDS">
         <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb" alt="MySQL, PostgreSQL, MongoDB y DynamoDB"><br>
-        <sub><code>Amazon RDS · MySQL · PostgreSQL · MongoDB · DynamoDB</code></sub>
+        <sub><code>MySQL · PostgreSQL · MongoDB · DynamoDB</code></sub>
       </td>
     </tr>
     <tr>
@@ -37,23 +36,18 @@
       </td>
       <td valign="top"><code>├─ ◉ monitoring_observability:</code><br><br>
         <img src="https://skillicons.dev/icons?i=sentry,prometheus" alt="Sentry y Prometheus">
-        <img src="https://cdn.simpleicons.org/datadog/76d8d2?viewbox=auto" height="48" alt="Datadog">
-        <img src="assets/icon-amazon-cloudwatch.svg" height="48" alt="Amazon CloudWatch"><br>
-        <sub><code>Sentry · Prometheus · Datadog · Amazon CloudWatch</code></sub>
+        <img src="https://cdn.simpleicons.org/datadog/76d8d2?viewbox=auto" height="48" alt="Datadog"><br>
+        <sub><code>Sentry · Prometheus · Datadog</code></sub>
       </td>
     </tr>
     <tr>
       <td valign="top"><code>├─ ✦ languages_frameworks:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=nodejs,javascript,react,nextjs,typescript,python,fastapi" alt="Node.js, JavaScript, React, Next.js, TypeScript, Python y FastAPI"><br>
-        <sub><code>Node.js · JavaScript · React · Next.js · TypeScript · Python · FastAPI</code></sub>
+        <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,python,fastapi,java,spring" alt="Node.js, JavaScript, React, Next.js, TypeScript, Python, FastAPI, java y spring"><br>
+        <sub><code>Node.js · JavaScript · TypeScript · Python · FastAPI · Java · SpringBoot</code></sub>
       </td>
       <td valign="top"><code>╰─ ⌁ security_iac:</code><br><br>
-        <img src="https://cdn.simpleicons.org/trivy/f3d29b?viewbox=auto" height="48" alt="Trivy">
-        <img src="assets/icon-sonarqube.svg" height="48" alt="SonarQube">
-        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform">
-        <img src="https://cdn.simpleicons.org/cilium/c7a4f5?viewbox=auto" height="48" alt="Cilium">
-        <img src="https://cdn.simpleicons.org/falco/76d8d2?viewbox=auto" height="48" alt="Falco"><br>
-        <sub><code>Trivy · SonarQube · Terraform · Cilium · Falco</code></sub>
+        <img src="https://cdn.simpleicons.org/trivy/f3d29b?viewbox=auto" height="48" alt="Trivy"><br>
+        <sub><code>Trivy</code></sub>
       </td>
     </tr>
   </tbody>

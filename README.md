@@ -8,12 +8,6 @@
 
 </div>
 
-## Sobre Mí
-
-Desarrollador FullStack. Diseño arquitecturas de software manteniendo los altos estándares de calidad. Mi objetivo es aportar valor resolviendo problemas tecnológicos, mientras sigo expandiendo mis habilidades técnicas y colaborando con equipos.
-
----
-
 <div align="center">
 
 ## `$ cat tech-stack.yaml`
